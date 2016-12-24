@@ -1,0 +1,6 @@
+E:\Trabajos\TutorialCS\PruebasXD\PruebasXD\bin\Debug\PruebasXD.exe.config
+E:\Trabajos\TutorialCS\PruebasXD\PruebasXD\bin\Debug\PruebasXD.exe
+E:\Trabajos\TutorialCS\PruebasXD\PruebasXD\bin\Debug\PruebasXD.pdb
+E:\Trabajos\TutorialCS\PruebasXD\PruebasXD\obj\Debug\PruebasXD.csprojResolveAssemblyReference.cache
+E:\Trabajos\TutorialCS\PruebasXD\PruebasXD\obj\Debug\PruebasXD.exe
+E:\Trabajos\TutorialCS\PruebasXD\PruebasXD\obj\Debug\PruebasXD.pdb
